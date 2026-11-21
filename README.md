@@ -6,7 +6,7 @@
 - ☁️ AWS · Azure · Google Cloud · Terraform · Docker · CI/CD
 - 🎓 M.S. Information Systems, Northeastern University · Postgraduate Certificate in Cloud Computing, George Brown College
 - 💼 Previously Data Engineer at Haya AI and Software Engineer → Data Engineer at Syssoft
-- 📫 [LinkedIn](https://www.linkedin.com/in/princenwaozuru) · princenwaozuru4@gmail.com
+- 📫 [LinkedIn](https://www.linkedin.com/in/prince-nwaozuru) · princenwaozuru4@gmail.com
 
 ### Featured projects
 
