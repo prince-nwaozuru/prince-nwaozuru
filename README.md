@@ -12,7 +12,7 @@
 
 | Project | What it shows |
 |---|---|
-| [VRMS](https://github.com/khalibsDoom/VRMS) | Full-stack rental system: React, Node.js/Express, Oracle, JWT auth |
-| [Clinical Trials Database](https://github.com/khalibsDoom/Clinical-Trial-Final-Reports) | 15-table relational schema, ERDs, views and indexes |
-| [Credit Card Fraud Detection](https://github.com/khalibsDoom/Credit-Card-Fraud-Detection) | Imbalanced-data classification with scikit-learn |
-| [ML Classifier Comparison](https://github.com/khalibsDoom/Machine-Learning-Report) | 10+ classifiers on spam and fake news text data |
+| [VRMS](https://github.com/prince-nwaozuru/VRMS) | Full-stack rental system: React, Node.js/Express, Oracle, JWT auth |
+| [Clinical Trials Database](https://github.com/prince-nwaozuru/Clinical-Trial-Final-Reports) | 15-table relational schema, ERDs, views and indexes |
+| [Credit Card Fraud Detection](https://github.com/prince-nwaozuru/Credit-Card-Fraud-Detection) | Imbalanced-data classification with scikit-learn |
+| [ML Classifier Comparison](https://github.com/prince-nwaozuru/Machine-Learning-Report) | 10+ classifiers on spam and fake news text data |
